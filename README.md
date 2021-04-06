@@ -5,5 +5,3 @@ The app demonstarates the ways particular USBL head misalignments (Yaw, Pitch, R
 Vessel behaviour and misalignment values can be set up using sliders.
 
 View requirements.txt to setup Pythoin environment.
-
-! Code will be refactored.
